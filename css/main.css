@@ -63,12 +63,12 @@ body {
   grid-template-areas: "banner";
   color: #fff;
   font-size: 1.5rem;
+  background-color: black;
 }
 
 .banner img {
   grid-area: banner;
   width: 100%;
-  background-color: black;
 }
 
 .banner div {
@@ -83,7 +83,6 @@ body {
 .banner h2,
 .banner p {
   margin: 0 0 1.5rem;
-  background-color: brown;
 }
 
 .banner a {
