@@ -149,3 +149,8 @@ body {
 .footer * {
   margin: 0;
 }
+
+a:hover,
+a:focus {
+  background-color: pink;
+}
