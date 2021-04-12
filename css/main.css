@@ -68,6 +68,7 @@ body {
 .banner img {
   grid-area: banner;
   width: 100%;
+  background-color: black;
 }
 
 .banner div {
