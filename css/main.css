@@ -83,6 +83,7 @@ body {
 .banner h2,
 .banner p {
   margin: 0 0 1.5rem;
+  background-color: brown;
 }
 
 .banner a {
